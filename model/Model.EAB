@@ -1,0 +1,9 @@
+<BranchVCSpec>
+	<PkgGUID>{64FC5E65-81A5-4cfb-84C2-B5F6D54085BE}</PkgGUID>
+	<XMLPath>eaB\B5F6D54085BE.xml</XMLPath>
+	<Config>
+		<GUID>cosaq-sandbox</GUID>
+		<LocalPath>%cosaq-sandbox%</LocalPath>
+		<Type>2</Type>
+	</Config>
+</BranchVCSpec>
